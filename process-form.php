@@ -45,7 +45,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 } else {
     // Redirect to the form page if accessed directly
-    header("Location: http://www.prasadankit.in/");
+    header("Location: https://prasadankit-129.github.io/prasadankit.in/");
     exit();
 }
 ?>
